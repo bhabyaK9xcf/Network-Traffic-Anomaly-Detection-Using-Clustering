@@ -4,8 +4,7 @@
 This project implements unsupervised anomaly detection in network traffic using clustering algorithms (KMeans, DBSCAN, GMM) on the NSL-KDD dataset. The system uses PCA for dimensionality reduction and provides both a REST API and an Android application for real-time predictions.
 
 ## Team Members
-Nilesh Mishra(P25CS0006), Shashank Dxit(P25CS008), Juhi Choudhary(P25CS0005)
-
+Bhabya Kumari (22352042)
 ## Table of Contents
 1. [Dependencies and Requirements](#dependencies-and-requirements)
 2. [Dataset Information](#dataset)
