@@ -251,7 +251,7 @@ python model/pca_module.py
 
 **Expected output:**
 PCA done. Original features: 41, Reduced features: 10
-Explained variance plot saved in C:\Users\niles\OneDrive\Desktop\Anomaly Detection in Network Traffic\results\plots       
+Explained variance plot saved in C:\Users\bhabya\OneDrive\Desktop\Anomaly Detection in Network Traffic\results\plots       
 PCA-transformed CSVs and model saved in results/splits/ and results/models/
 
 **Generated files:**
