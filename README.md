@@ -232,8 +232,8 @@ python model/split_data.py
 Loaded preprocessed train data with shape: (125973, 42)
 Train label anomaly ratio: 0.47
 Validation label anomaly ratio: 0.47
-Train split saved: C:\Users\niles\OneDrive\Desktop\Anomaly Detection in Network Traffic\results\splits\train_split.csv ((100778, 42))
-Validation split saved: C:\Users\niles\OneDrive\Desktop\Anomaly Detection in Network Traffic\results\splits\validation_split.csv ((25195, 42))
+Train split saved: C:\Users\bhabya\OneDrive\Desktop\Anomaly Detection in Network Traffic\results\splits\train_split.csv ((100778, 42))
+Validation split saved: C:\Users\bhabya\OneDrive\Desktop\Anomaly Detection in Network Traffic\results\splits\validation_split.csv ((25195, 42))
 Train/validation split completed with stratification check
 
 **Generated files:**
